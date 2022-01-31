@@ -1,0 +1,5 @@
+
+pipreqs \kpmg_code_test\Challenge#3	# Generate requirements.txt file
+# to install a requirements.txt file:
+pip install -r requirements.txt
+# please leave a like ;)
